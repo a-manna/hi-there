@@ -1,2 +1,2 @@
 # hi-there
-hello-world
+Energy = myCoffee^2
